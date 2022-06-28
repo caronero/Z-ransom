@@ -30,7 +30,7 @@ pkg update && pkg upgrade -y
 pkg install python3 -y
 ```
 ```bash
-git clone https://github.com/hackerxphantom/xransom
+git clone https://github.com/caronero/Z-ransom
 ```
 ```bash
 cd xransom
@@ -39,7 +39,7 @@ cd xransom
 bash install.sh
 ```
 ```bash
-python3 xransom.py
+python3 zransom.py
 ```
 
      
