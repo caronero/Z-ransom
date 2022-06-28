@@ -12,9 +12,17 @@
 Note : Tool is Made of Educational Purposes only.
        Please try not to harm anyone device 
        it's For Fun Purpose Not For Revenge
-       (Join Us https://bit.ly/3MdkT66 )
+       
        
 ```
+
+### Installation for linux
+Quick installation for Ubuntu, Kali Linux, Darwin (MAC)
+```bash
+git clone https://github.com/termuxhackers-id/SARA && cd SARA && sudo bash install.sh
+```
+
+### Installation for termux 
 ```bash
 pkg update && pkg upgrade -y
 ```
