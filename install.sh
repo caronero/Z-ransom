@@ -20,4 +20,4 @@ apt-get install python3
 echo -e $b">"$w" installing modules: "$g"pillow"$w
 pip3 install Pillow
 echo -e $b">"$w" successfully installing dependencies"
-echo -e $b">"$w" use command "$g"python3 xransom.py"$w" for start the tool"
+echo -e $b">"$w" use command "$g"python3 zransom.py"$w" for start the tool"
